@@ -1,0 +1,9 @@
+
+d
+java:S6205	"Remove this redundant block.(…Ş„ıÿÿÿÿ8¹ß½Àá2J$dab97796-e479-40e9-9f5d-9bb63d600616
+r	java:S106
+"+Replace this use of System.out by a logger.(§øıôùÿÿÿÿ8»ß½Àá2J$3b8e0cbc-f727-45a6-b49c-55ef89497b84
+m	java:S106"+Replace this use of System.out by a logger.(«‚ºœ8»ß½Àá2J$b0cd2766-e95a-4c1b-9cbf-2610ddcfb4e3
+r	java:S106"+Replace this use of System.out by a logger.(…ÂÊ´úÿÿÿÿ8»ß½Àá2J$8b095898-4b33-4b13-8694-1bcf9ed91184
+m	java:S106"+Replace this use of System.out by a logger.(ù¨¶š8¼ß½Àá2J$2b27de7f-04f0-4773-9641-6eccb9ce2ac2
+l	java:S106"+Replace this use of System.out by a logger.(øıâd8¼ß½Àá2J$89a6e67e-aaf3-4e7b-98ad-8f0ba363ffda

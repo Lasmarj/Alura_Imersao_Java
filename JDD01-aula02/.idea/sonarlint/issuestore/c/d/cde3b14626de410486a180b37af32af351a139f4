@@ -1,0 +1,14 @@
+
+†
+java:S6208"CMerge the previous cases into this one using comma-separated label.(Äîä¨8ğı¿á2J$77996f97-177c-411d-92d8-c6204c6a4065
+
+java:S1854"<Remove this useless assignment to local variable "operacao".(¿¢ã¨8®®ı¿á2J$91e69225-840c-4379-b046-520ba3918f13
+h
+java:S1659" Declare "n2" on a separate line.(ã£Øìûÿÿÿÿ8°®ı¿á2J$7ab57b5a-99e6-4a19-9d6c-4fbd6f01d0c6
+p
+java:S1481"-Remove this unused "operacao" local variable.(¿¢ã¨8±®ı¿á2J$a495a458-c133-4f82-86c5-369668ecaf88
+i	java:S131""Add a default case to this switch.(‹…Ğ‡ÿÿÿÿÿ8²®ı¿á2J$b43eff47-edcb-4759-a90a-cc597e08ab7f
+m	java:S106"+Replace this use of System.out by a logger.(ƒÄÒ¥8³®ı¿á2J$8f961fc7-a648-44a9-b318-6b614d36bd74
+m	java:S106"+Replace this use of System.out by a logger.(Äîä¨8™ğı¿á2J$e1f7dadf-52b7-480a-ab62-8f3c0108749c
+l	java:S106"+Replace this use of System.out by a logger.(Ÿ¿µ.8îª„Àá2J$aee3a6d5-55fd-42eb-9f74-e839923d088c
+m	java:S106"+Replace this use of System.out by a logger.(ÒÚ Á8 »…Àá2J$cbcff04f-80b0-4e40-9288-6640de062dee
