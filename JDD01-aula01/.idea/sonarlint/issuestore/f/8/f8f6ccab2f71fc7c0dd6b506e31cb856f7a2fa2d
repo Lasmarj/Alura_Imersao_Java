@@ -1,0 +1,29 @@
+
+…
+java:S1854""BRemove this useless assignment to local variable "leitorNumerico".(ıÊø©8“®“•á2J$b119610f-366b-49cf-bdf1-b57190b9554a
+
+java:S1854"9Remove this useless assignment to local variable "idade".(‘Ù“ñÿÿÿÿÿ8„Âá”á2J$0583822e-9834-4ab0-adb3-40e16665feea
+†
+java:S1659">Declare "x" and all following declarations on a separate line.(—°Í«şÿÿÿÿ8…Âá”á2J$ffa951c4-df14-4e17-992b-af879f766a39
+h
+java:S1659" Declare "n2" on a separate line.(ÏÛ‘Íıÿÿÿÿ8‡Âá”á2J$20499bb3-7653-4ad1-a6e8-b53380c53305
+m	java:S106"+Replace this use of System.out by a logger.(½ä’8ˆÂá”á2J$8c828a0d-64f8-4667-b506-0297df60f82a
+m	java:S106"+Replace this use of System.out by a logger.(¼ïš8‰Âá”á2J$13d2cf00-c94c-4d9d-a33c-3e408fda52a9
+r	java:S106	"+Replace this use of System.out by a logger.(ßû§Óøÿÿÿÿ8‰Âá”á2J$f468f9d3-a99d-4485-b88d-f36a455c9faf
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(§úÇˆşÿÿÿÿ8ŠÂá”á2J$03df35ab-29ac-4414-b4ff-cf0c0823cb7f
+n
+java:S1481"&Remove this unused "x" local variable.(—°Í«şÿÿÿÿ8‹Âá”á2J$ef253be9-06e5-4713-8ead-48d91e36965b
+n
+java:S1481"&Remove this unused "y" local variable.(—°Í«şÿÿÿÿ8‹Âá”á2J$57187a0e-b7c1-48c3-9038-093de9038904
+m
+java:S1481"*Remove this unused "letra" local variable.(•ä—Ñ8‹Âá”á2J$3af8c936-92f8-4de0-9674-ff5d870ee330
+r	java:S106"+Replace this use of System.out by a logger.(õÔ§²ÿÿÿÿÿ8ŒÂá”á2J$c14c9cd3-5dae-48f8-880d-0f6d9f26733c
+m	java:S106"+Replace this use of System.out by a logger.(ğŒÆŒ8ŒÂá”á2J$41b8c56b-ec16-45f8-ada2-98546969ed7c
+r	java:S106"+Replace this use of System.out by a logger.(ÙÉË”úÿÿÿÿ8ŒÂá”á2J$94230a53-4a8c-4153-a1ab-34a70bb6ab4d
+m	java:S106"+Replace this use of System.out by a logger.(İŒ²ï8ŒÂá”á2J$3d44524d-7cd7-4524-87f2-307a2ffed020
+P
+java:S1481""3Remove this unused "leitorNumerico" local variable.(ıÊø©8éÓ“•á2
+m	java:S106$"+Replace this use of System.out by a logger.(ŒĞæë8”Éğ”á2J$9fedf26f-677d-483c-acb2-3a05c507333a
+r	java:S106&"+Replace this use of System.out by a logger.(ŸÛœ§øÿÿÿÿ8èõñ”á2J$2ff87280-5f7d-4fd9-89ce-1cf23c6964fa
+~	java:S125'"<This block of commented-out lines of code should be removed.(Ãéèñ8ä‚•á2J$59404a49-c78a-43a5-aba8-dd21c999a8b1
+r	java:S106)"+Replace this use of System.out by a logger.(¾Ğêºÿÿÿÿÿ8Ö’ó”á2J$9f834d78-d3b6-419b-bc5f-5cdb7b303648
